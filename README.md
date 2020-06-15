@@ -39,6 +39,6 @@ And... Done, `termux-style` successfully installed in your termux.
 
 > If You are enjoying this program, then please support the developers of `termux` apps. An Android Apps is also available on play store, which is pretty simple & easy to use. Here, [Termux-Styling](https://play.google.com/store/apps/details?id=com.termux.styling&hl=en)
 
-###NOTE:
+### NOTE:
 
 > The credit goes to original creator and developer of _Termux : Styling_ app.
