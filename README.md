@@ -16,7 +16,7 @@ This Setup Contains-
 git clone https://github.com/RealGJ/My-Termux-Styling.git
 
 # Change to cloned directory
-cd termux-style
+cd My-Termux-Styling
 
 # Make script executable
 chmod +x setup
