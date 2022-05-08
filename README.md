@@ -42,6 +42,3 @@ And... Done, `termux-style` successfully installed in your termux.
 ### NOTE:
 
 > The credit goes to original creator and developer of _Termux : Styling_ app.
-
->This script is originally made by @adi090x
-I've just edited and added my name for personal use
